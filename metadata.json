@@ -1,0 +1,6 @@
+{
+  "name": "DoubleDiverge",
+  "description": "A sleek, modern, premium website for DoubleDiverge — an innovation and technology studio helping organisations explore, build and apply technology to solve meaningful real-world problems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
